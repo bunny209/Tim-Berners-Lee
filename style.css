@@ -70,3 +70,6 @@ body {
 .lists:hover{
     background-color: dodgerblue;
 }
+.article:hover{
+    color:greenyellow;
+}
